@@ -1,4 +1,4 @@
-# Hey there, I'm Kolin 🖖
+# Hey there, I'm Kolin 👋
  <br/>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=09F7B1&vCenter=true&width=450&lines=Software+Engineer+(full-stack)+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;UI%2FUX+enthusiast+%F0%9F%A4%93;Open+source+proponent+%F0%9F%93%A3;Weekend+backpacker+%F0%9F%8F%95%EF%B8%8F)](https://git.io/typing-svg)
