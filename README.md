@@ -35,3 +35,6 @@ I have experience in everything from front-end developemnt using React and JavaS
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
 </div>
+<br/>
+
+Find me on [LinkedIn](https://www.linkedin.com/in/knewby/)
