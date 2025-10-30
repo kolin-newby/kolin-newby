@@ -37,4 +37,4 @@ I have experience in everything from front-end developmnt using React and JavaSc
 </div>
 <br/>
 
-Find [knewby](https://www.linkedin.com/in/knewby/) on Linkedin, or visit my website at https://kolinnewby.dev
+Find [knewby](https://www.linkedin.com/in/knewby/) on Linkedin, or visit my website at [kolinnewby.dev](https://kolinnewby.dev)
