@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=09F7B1&vCenter=true&width=450&lines=Software+Engineer+(full-stack)+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;UI%2FUX+enthusiast+%F0%9F%A4%93;Open+source+proponent+%F0%9F%93%A3;Weekend+backpacker+%F0%9F%8F%95%EF%B8%8F)](https://git.io/typing-svg)
 
 ## Languages and Tools experience 🛠️
-I have experience in everything from front-end developemnt using React and JavaScript to QA testing and web logger development with Golang. I have worked on multi-language projects, self hosted security tools, API gateway loggers, and robust data driven UI's.
+I have experience in everything from front-end developmnt using React and JavaScript to QA testing and web logger development with Golang. I have worked on multi-language projects, self hosted security tools, API gateway loggers, and robust data driven UI's.
 <br/>
 <div >
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go"/>
