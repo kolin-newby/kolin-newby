@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=09F7B1&vCenter=true&width=450&lines=Software+Engineer+(full-stack)+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;UI%2FUX+enthusiast+%F0%9F%A4%93;Open+source+proponent+%F0%9F%93%A3;Weekend+backpacker+%F0%9F%8F%95%EF%B8%8F)](https://git.io/typing-svg)
 
 ## Languages and Tools experience 🛠️
-I have experience in everything from front-end development using React and JavaScript to QA testing and web logger development with Go. I have worked on multi-language projects, self-hosted security tools, API gateway loggers, and robust data-driven UI's.
+I'm a frontend-leaning full-stack software engineer with experience in fast-paced startups. I have worked in the frontend using React and TypeScript, and Go, Rust, and Java on the backend. I'm always trying to learn and grow my skill set, and I'm looking for a new role that will let me do just that!
 <br/>
 <div >
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go"/>
@@ -37,6 +37,6 @@ I have experience in everything from front-end development using React and JavaS
 </div>
 <br/>
 
-Find [knewby](https://www.linkedin.com/in/knewby/) on Linkedin, visit my website at [kolinnewby.dev](https://kolinnewby.dev), or download [my resume](https://kolinnewby.dev/resume.pdf).
+Find [knewby](https://www.linkedin.com/in/knewby/) on LinkedIn, visit my website at [kolinnewby.dev](https://kolinnewby.dev), or download [my resume](https://kolinnewby.dev/resume.pdf).
 
 [//]: # (comment sources here in the future)
