@@ -14,3 +14,4 @@ I'm a frontend-leaning full-stack software engineer with experience in fast-pace
 Find [knewby](https://www.linkedin.com/in/knewby/) on LinkedIn, visit my website at [kolinnewby.dev](https://kolinnewby.dev), or download [my resume](https://kolinnewby.dev/resume.pdf).
 
 [//]: # (comment sources here in the future)
+[//]: # (Icon Generator: https://github.com/GeekyWizKid/skill-icon-generate)
