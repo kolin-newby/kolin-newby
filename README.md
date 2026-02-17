@@ -7,7 +7,7 @@
 I'm a frontend-leaning full-stack software engineer with experience in fast-paced startups. I have worked in the frontend using React and TypeScript, and Go, Rust, and Java on the backend. I'm always trying to learn and grow my skill set, and I'm looking for a new role that will let me do just that!
 <br/>
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,cpp,css,docker,figma,git,github,javascript,html,graphql,golang,idea,kubernetes,linux,mysql,postgresql,postman,pug,python,react,rust,selenium,sqlite,supabase,svg,tailwindcss,typescript,vim,vite,vscode,wordpress&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,cpp,css,docker,figma,git,github,javascript,html,graphql,golang,idea,kubernetes,linux,mysql,postgresql,postman,pug,python,react,rust,selenium,sqlite,supabase,svg,tailwindcss,typescript,vim,vite,vscode,vue,wordpress&theme=light)](https://skillicons.dev)
 <br/>
 <br/>
 
